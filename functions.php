@@ -32,7 +32,7 @@ if (!function_exists('wp_heatmap_shortcode')) {
         // Localize script with data
         wp_localize_script('wp-heatmap-js', 'heatmapData', $heatmap_data);
 
-        return '<div id="heatmap" style="max-width: 600px; height: 180px; padding: 2px; text-align: center; margin: 0 auto"></div>';
+        return '<div id="heatmap" style="max-width: 600px; height: 180px; padding: 2px; text-align: center; margin: 0 auto;"></div>';
     }
 
     add_shortcode('heatmap', 'wp_heatmap_shortcode');
