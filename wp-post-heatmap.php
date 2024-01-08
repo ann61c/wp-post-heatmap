@@ -7,6 +7,8 @@ Author: Miss Taco
 Author URI: https://github.com/ann61c
 Developer: Miss Taco
 Developer URI: https://lyc.sh
+License: MIT
+License URI: https://opensource.org/licenses/MIT
 */
 define('WPL_PATH', dirname(__FILE__));
 
