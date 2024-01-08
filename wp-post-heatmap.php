@@ -10,6 +10,5 @@ Developer URI: https://lyc.sh
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 */
-define('WPL_PATH', dirname(__FILE__));
 
-require WPL_PATH . '/functions.php';
+require dirname(__FILE__) . '/functions.php';
