@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Post Heatmap
-Description: WP Post Heatmap enhances your WordPress site by visualizing post activity through a heatmap. It elegantly displays the frequency and word count of posts over time, similar to GitHub's contribution heatmap.
+Description: WP Post Heatmap visualizes post activity through a github alike heatmap. Usage: put [heatmap] in your post/page.
 Version: 0.01
 Author: Miss Taco
 Author URI: https://github.com/ann61c
